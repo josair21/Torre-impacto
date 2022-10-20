@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Report filever="1.0" caption="converting report">
+	<pLevel parentTypeID="-1" id="true" caption="source project:C:\Users\PC002\Downloads\Desktop\T PROYECTO - copia\LAYOUT 1.0\LAYOUT 1.0.ump" />
+	<pLevel parentTypeID="-1" id="true" caption="new project:C:\Users\PC002\Desktop\Torre de impacto\HMI\Torre de impacto\LAYOUT 1.0_PI_1\HMIProject.pi" />
+	<pLevel parentTypeID="1000000" id="1100001" caption="Explain：" CapType="0" IsModify="false" ErrorType="0" ScreenID="-1" PartName="Report">
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="1:Bit switch、word switch、function key、bit status lamp、word status lamp" CapType="0" IsModify="false" ErrorType="0" ScreenID="-1" PartName="Report" />
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="2:Numeric input、text input、date display、time display" CapType="0" IsModify="false" ErrorType="0" ScreenID="-1" PartName="Report" />
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="3:Rectangular、text、bitmap、Indirect Window、indirect Window" CapType="0" IsModify="false" ErrorType="0" ScreenID="-1" PartName="Report" />
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="4:Keypad Switch" CapType="0" IsModify="false" ErrorType="0" ScreenID="-1" PartName="Report" />
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="5:Numeric Input" CapType="0" IsModify="false" ErrorType="0" ScreenID="-1" PartName="Report" />
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Parts among 1~3,data format：no the function of minimum and maximum setting!" CapType="0" IsModify="false" ErrorType="0" ScreenID="-1" PartName="Report" />
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Parts among 1~2、4 ,May not have the corresponding background image after converting, please reset the background pictures!" CapType="0" IsModify="false" ErrorType="0" ScreenID="-1" PartName="Report" />
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Parts in 5, Display format of the data range may be different from the new version!" CapType="0" IsModify="false" ErrorType="0" ScreenID="-1" PartName="Report" />
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Special register options: system specific registers with no corresponding relationship on PI" CapType="0" IsModify="false" ErrorType="0" ScreenID="-1" PartName="Report" />
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="*Failed to convert all the special registers of all the scripts, please check again!" CapType="1" IsModify="false" ErrorType="2" ScreenID="-1" PartName="Report" />
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="*Color description: Black [normal], red [error], blue [warning]." CapType="1" IsModify="false" ErrorType="2" ScreenID="-1" PartName="Report" />
+	</pLevel>
+	<pLevel parentTypeID="1000000" id="1100001" caption="global setting" CapType="0" IsModify="false" ErrorType="0" ScreenID="-1" PartName="Report">
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="HMI model" CapType="0" IsModify="false" ErrorType="0" ScreenID="-1" PartName="">
+			<nLevel2 parentTypeID="1200002" id="1300003" caption="Original project HMI: LEVI 2070" CapType="0" IsModify="false" ErrorType="0" ScreenID="-1" PartName="" />
+			<nLevel2 parentTypeID="1200002" id="1300003" caption="Target project HMI: PI3070i" CapType="0" IsModify="false" ErrorType="0" ScreenID="-1" PartName="" />
+		</nLevel1>
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Communication configuration" CapType="0" IsModify="false" ErrorType="0" ScreenID="-1" PartName="----" />
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Project Parameters" CapType="0" IsModify="false" ErrorType="0" ScreenID="-1" PartName="SysControlError">
+			<nLevel2 parentTypeID="1200002" id="1300003" caption="Failed to convert security level,No the same function supported in PI." CapType="1" IsModify="false" ErrorType="2" ScreenID="-1" PartName="----" />
+			<nLevel2 parentTypeID="1200002" id="1300003" caption="Failed to convert HMI ethernet,please reset it in the new project." CapType="2" IsModify="false" ErrorType="1" ScreenID="-1" PartName="----" />
+			<nLevel2 parentTypeID="1200002" id="1300003" caption="No support for parts level password" CapType="1" IsModify="false" ErrorType="2" ScreenID="-1" PartName="----" />
+			<nLevel2 parentTypeID="1200002" id="1300003" caption="No address for background light control" CapType="2" IsModify="false" ErrorType="1" ScreenID="-1" PartName="----" />
+			<nLevel2 parentTypeID="1200002" id="1300003" caption="No system control block supported in PI." CapType="2" IsModify="false" ErrorType="1" ScreenID="-1" PartName="----" />
+			<nLevel2 parentTypeID="1200002" id="1300003" caption="No system language setting" CapType="2" IsModify="false" ErrorType="1" ScreenID="-1" PartName="----" />
+			<nLevel2 parentTypeID="1200002" id="1300003" caption="No screen saver" CapType="2" IsModify="false" ErrorType="1" ScreenID="-1" PartName="----" />
+		</nLevel1>
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Address library" CapType="0" IsModify="false" ErrorType="0" ScreenID="-1" PartName="AddressLib" />
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Text library" CapType="0" IsModify="false" ErrorType="0" ScreenID="-1" PartName="----" />
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Front library" CapType="0" IsModify="false" ErrorType="0" ScreenID="-1" PartName="FontLib" />
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="bitmap library" CapType="0" IsModify="false" ErrorType="0" ScreenID="-1" PartName="G_bmplib" />
+	</pLevel>
+	<pLevel parentTypeID="1000000" id="1100001" caption="address mapping" CapType="0" IsModify="false" ErrorType="0" ScreenID="-1" PartName="AddrMapping" />
+	<pLevel parentTypeID="1000000" id="1100001" caption="Data record" CapType="0" IsModify="false" ErrorType="0" ScreenID="-1" PartName="EventError">
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Converting data record:IMPACTO" CapType="0" IsModify="false" ErrorType="0" ScreenID="-1" PartName="EventError">
+			<nLevel2 parentTypeID="1200002" id="1300003" caption="No setting for binary saving" CapType="2" IsModify="false" ErrorType="1" ScreenID="-1" PartName="EventError" />
+		</nLevel1>
+	</pLevel>
+	<pLevel parentTypeID="1000000" id="1100001" caption="The word alarm" CapType="0" IsModify="false" ErrorType="0" ScreenID="-1" PartName="WordAlarmError">
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="The word alarm 1" CapType="0" IsModify="false" ErrorType="0" ScreenID="-1" PartName="WordAlarmError" />
+	</pLevel>
+	<pLevel parentTypeID="1000000" id="1100001" caption="Screen:0 INICIO" CapType="0" IsModify="false" ErrorType="0" ScreenID="0" PartName="">
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Rectangle REC_1" CapType="0" IsModify="false" ErrorType="0" ScreenID="0" PartName="REC_1">
+			<nLevel2 parentTypeID="1200002" id="1300003" caption="No forecolor" CapType="2" IsModify="false" ErrorType="1" ScreenID="0" PartName="REC_1" />
+			<nLevel2 parentTypeID="1200002" id="1300003" caption="Pattern style has already be changed , please reset it !" CapType="1" IsModify="false" ErrorType="2" ScreenID="0" PartName="REC_1" />
+		</nLevel1>
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Rectangle REC_4" CapType="0" IsModify="false" ErrorType="0" ScreenID="0" PartName="REC_4">
+			<nLevel2 parentTypeID="1200002" id="1300003" caption="No forecolor" CapType="2" IsModify="false" ErrorType="1" ScreenID="0" PartName="REC_4" />
+			<nLevel2 parentTypeID="1200002" id="1300003" caption="Pattern style has already be changed , please reset it !" CapType="1" IsModify="false" ErrorType="2" ScreenID="0" PartName="REC_4" />
+		</nLevel1>
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Rectangle REC_3" CapType="0" IsModify="false" ErrorType="0" ScreenID="0" PartName="REC_3">
+			<nLevel2 parentTypeID="1200002" id="1300003" caption="No forecolor" CapType="2" IsModify="false" ErrorType="1" ScreenID="0" PartName="REC_3" />
+			<nLevel2 parentTypeID="1200002" id="1300003" caption="Pattern style has already be changed , please reset it !" CapType="1" IsModify="false" ErrorType="2" ScreenID="0" PartName="REC_3" />
+		</nLevel1>
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Rectangle REC_2" CapType="0" IsModify="false" ErrorType="0" ScreenID="0" PartName="REC_2">
+			<nLevel2 parentTypeID="1200002" id="1300003" caption="No forecolor" CapType="2" IsModify="false" ErrorType="1" ScreenID="0" PartName="REC_2" />
+			<nLevel2 parentTypeID="1200002" id="1300003" caption="Pattern style has already be changed , please reset it !" CapType="1" IsModify="false" ErrorType="2" ScreenID="0" PartName="REC_2" />
+		</nLevel1>
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Rectangle REC_0" CapType="0" IsModify="false" ErrorType="0" ScreenID="0" PartName="REC_0">
+			<nLevel2 parentTypeID="1200002" id="1300003" caption="No forecolor" CapType="2" IsModify="false" ErrorType="1" ScreenID="0" PartName="REC_0" />
+			<nLevel2 parentTypeID="1200002" id="1300003" caption="Pattern style has already be changed , please reset it !" CapType="1" IsModify="false" ErrorType="2" ScreenID="0" PartName="REC_0" />
+		</nLevel1>
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Bit switch BS_3" CapType="0" IsModify="false" ErrorType="0" ScreenID="0" PartName="BS_3" />
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Bit state lamp BL_3" CapType="0" IsModify="false" ErrorType="0" ScreenID="0" PartName="BL_3">
+			<nLevel2 parentTypeID="1200002" id="1300003" caption="No function of display direction" CapType="2" IsModify="false" ErrorType="1" ScreenID="0" PartName="BL_3" />
+		</nLevel1>
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Bit state lamp BL_2" CapType="0" IsModify="false" ErrorType="0" ScreenID="0" PartName="BL_2" />
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Bit switch BS_1" CapType="0" IsModify="false" ErrorType="0" ScreenID="0" PartName="BS_1">
+			<nLevel2 parentTypeID="1200002" id="1300003" caption="No function of display direction" CapType="2" IsModify="false" ErrorType="1" ScreenID="0" PartName="BS_1" />
+		</nLevel1>
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Bit switch BS_0" CapType="0" IsModify="false" ErrorType="0" ScreenID="0" PartName="BS_0" />
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Delete column graph TANK_0" CapType="2" IsModify="false" ErrorType="1" ScreenID="0" PartName="TANK_0" />
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Numeric Input NUM_0" CapType="0" IsModify="false" ErrorType="0" ScreenID="0" PartName="NUM_0" />
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Numeric Input NUM_1" CapType="0" IsModify="false" ErrorType="0" ScreenID="0" PartName="NUM_1" />
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Text TXT_0" CapType="0" IsModify="false" ErrorType="0" ScreenID="0" PartName="TXT_0" />
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Text TXT_1" CapType="0" IsModify="false" ErrorType="0" ScreenID="0" PartName="TXT_1" />
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Text TXT_2" CapType="0" IsModify="false" ErrorType="0" ScreenID="0" PartName="TXT_2" />
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Text TXT_3" CapType="0" IsModify="false" ErrorType="0" ScreenID="0" PartName="TXT_3" />
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Bit state lamp BL_0" CapType="0" IsModify="false" ErrorType="0" ScreenID="0" PartName="BL_0" />
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Bit switch BS_4" CapType="0" IsModify="false" ErrorType="0" ScreenID="0" PartName="BS_4" />
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Text TXT_4" CapType="0" IsModify="false" ErrorType="0" ScreenID="0" PartName="TXT_4" />
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Time TIME_0" CapType="0" IsModify="false" ErrorType="0" ScreenID="0" PartName="TIME_0">
+			<nLevel2 parentTypeID="1200002" id="1300003" caption="No background color" CapType="2" IsModify="false" ErrorType="1" ScreenID="0" PartName="TIME_0" />
+		</nLevel1>
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="function switch FS_3" CapType="0" IsModify="false" ErrorType="0" ScreenID="0" PartName="FS_3" />
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Text TXT_6" CapType="0" IsModify="false" ErrorType="0" ScreenID="0" PartName="TXT_6" />
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Text TXT_7" CapType="0" IsModify="false" ErrorType="0" ScreenID="0" PartName="TXT_7" />
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Text TXT_8" CapType="0" IsModify="false" ErrorType="0" ScreenID="0" PartName="TXT_8" />
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Bit switch BS_5" CapType="0" IsModify="false" ErrorType="0" ScreenID="0" PartName="BS_5">
+			<nLevel2 parentTypeID="1200002" id="1300003" caption="No function of display direction" CapType="2" IsModify="false" ErrorType="1" ScreenID="0" PartName="BS_5" />
+		</nLevel1>
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Bit switch BS_7" CapType="0" IsModify="false" ErrorType="0" ScreenID="0" PartName="BS_7" />
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Bit switch BS_6" CapType="0" IsModify="false" ErrorType="0" ScreenID="0" PartName="BS_6" />
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Text TXT_5" CapType="0" IsModify="false" ErrorType="0" ScreenID="0" PartName="TXT_5" />
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Numeric Input NUM_2" CapType="0" IsModify="false" ErrorType="0" ScreenID="0" PartName="NUM_2" />
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Text TXT_9" CapType="0" IsModify="false" ErrorType="0" ScreenID="0" PartName="TXT_9" />
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Text TXT_10" CapType="0" IsModify="false" ErrorType="0" ScreenID="0" PartName="TXT_10" />
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="function switch FS_2" CapType="0" IsModify="false" ErrorType="0" ScreenID="0" PartName="FS_2" />
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="function switch FS_1" CapType="0" IsModify="false" ErrorType="0" ScreenID="0" PartName="FS_1" />
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="function switch FS_0" CapType="0" IsModify="false" ErrorType="0" ScreenID="0" PartName="FS_0" />
+	</pLevel>
+	<pLevel parentTypeID="1000000" id="1100001" caption="Screen:1 EVENTOS" CapType="0" IsModify="false" ErrorType="0" ScreenID="1" PartName="">
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="function switch Function Switch0" CapType="0" IsModify="false" ErrorType="0" ScreenID="1" PartName="Function Switch0" />
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="function switch Function Switch1" CapType="0" IsModify="false" ErrorType="0" ScreenID="1" PartName="Function Switch1" />
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="function switch Function Switch2" CapType="0" IsModify="false" ErrorType="0" ScreenID="1" PartName="Function Switch2" />
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Data record display RED_0" CapType="0" IsModify="false" ErrorType="0" ScreenID="1" PartName="RED_0" />
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="function switch FS_0" CapType="0" IsModify="false" ErrorType="0" ScreenID="1" PartName="FS_0" />
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Time TIME_0" CapType="0" IsModify="false" ErrorType="0" ScreenID="1" PartName="TIME_0">
+			<nLevel2 parentTypeID="1200002" id="1300003" caption="No background color" CapType="2" IsModify="false" ErrorType="1" ScreenID="1" PartName="TIME_0" />
+		</nLevel1>
+	</pLevel>
+	<pLevel parentTypeID="1000000" id="1100001" caption="Screen:2 PARAMETROS" CapType="0" IsModify="false" ErrorType="0" ScreenID="2" PartName="">
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Rectangle REC_1" CapType="0" IsModify="false" ErrorType="0" ScreenID="2" PartName="REC_1">
+			<nLevel2 parentTypeID="1200002" id="1300003" caption="No forecolor" CapType="2" IsModify="false" ErrorType="1" ScreenID="2" PartName="REC_1" />
+			<nLevel2 parentTypeID="1200002" id="1300003" caption="Pattern style has already be changed , please reset it !" CapType="1" IsModify="false" ErrorType="2" ScreenID="2" PartName="REC_1" />
+		</nLevel1>
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Text TXT_3" CapType="0" IsModify="false" ErrorType="0" ScreenID="2" PartName="TXT_3" />
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Numeric Input NUM_1" CapType="0" IsModify="false" ErrorType="0" ScreenID="2" PartName="NUM_1" />
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Text TXT_4" CapType="0" IsModify="false" ErrorType="0" ScreenID="2" PartName="TXT_4" />
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Text TXT_1" CapType="0" IsModify="false" ErrorType="0" ScreenID="2" PartName="TXT_1" />
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="function switch Function Switch0" CapType="0" IsModify="false" ErrorType="0" ScreenID="2" PartName="Function Switch0" />
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="function switch Function Switch1" CapType="0" IsModify="false" ErrorType="0" ScreenID="2" PartName="Function Switch1" />
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="function switch Function Switch2" CapType="0" IsModify="false" ErrorType="0" ScreenID="2" PartName="Function Switch2" />
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Time TIME_0" CapType="0" IsModify="false" ErrorType="0" ScreenID="2" PartName="TIME_0">
+			<nLevel2 parentTypeID="1200002" id="1300003" caption="No background color" CapType="2" IsModify="false" ErrorType="1" ScreenID="2" PartName="TIME_0" />
+		</nLevel1>
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Bit switch BS_0" CapType="0" IsModify="false" ErrorType="0" ScreenID="2" PartName="BS_0" />
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Rectangle Rectangle1" CapType="0" IsModify="false" ErrorType="0" ScreenID="2" PartName="Rectangle1">
+			<nLevel2 parentTypeID="1200002" id="1300003" caption="No forecolor" CapType="2" IsModify="false" ErrorType="1" ScreenID="2" PartName="Rectangle1" />
+			<nLevel2 parentTypeID="1200002" id="1300003" caption="Pattern style has already be changed , please reset it !" CapType="1" IsModify="false" ErrorType="2" ScreenID="2" PartName="Rectangle1" />
+		</nLevel1>
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Text Text0" CapType="0" IsModify="false" ErrorType="0" ScreenID="2" PartName="Text0" />
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Numeric Input Numeric Input/Display0" CapType="0" IsModify="false" ErrorType="0" ScreenID="2" PartName="Numeric Input/Display0" />
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Text Text1" CapType="0" IsModify="false" ErrorType="0" ScreenID="2" PartName="Text1" />
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="function switch FS_0" CapType="0" IsModify="false" ErrorType="0" ScreenID="2" PartName="FS_0" />
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Rectangle REC_0" CapType="0" IsModify="false" ErrorType="0" ScreenID="2" PartName="REC_0">
+			<nLevel2 parentTypeID="1200002" id="1300003" caption="No forecolor" CapType="2" IsModify="false" ErrorType="1" ScreenID="2" PartName="REC_0" />
+			<nLevel2 parentTypeID="1200002" id="1300003" caption="Pattern style has already be changed , please reset it !" CapType="1" IsModify="false" ErrorType="2" ScreenID="2" PartName="REC_0" />
+		</nLevel1>
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Text TXT_0" CapType="0" IsModify="false" ErrorType="0" ScreenID="2" PartName="TXT_0" />
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Numeric Input NUM_0" CapType="0" IsModify="false" ErrorType="0" ScreenID="2" PartName="NUM_0" />
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Text TXT_2" CapType="0" IsModify="false" ErrorType="0" ScreenID="2" PartName="TXT_2" />
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Rectangle REC_2" CapType="0" IsModify="false" ErrorType="0" ScreenID="2" PartName="REC_2">
+			<nLevel2 parentTypeID="1200002" id="1300003" caption="No forecolor" CapType="2" IsModify="false" ErrorType="1" ScreenID="2" PartName="REC_2" />
+			<nLevel2 parentTypeID="1200002" id="1300003" caption="Pattern style has already be changed , please reset it !" CapType="1" IsModify="false" ErrorType="2" ScreenID="2" PartName="REC_2" />
+		</nLevel1>
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Numeric Input NUM_2" CapType="0" IsModify="false" ErrorType="0" ScreenID="2" PartName="NUM_2" />
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Text TXT_5" CapType="0" IsModify="false" ErrorType="0" ScreenID="2" PartName="TXT_5" />
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Text TXT_6" CapType="0" IsModify="false" ErrorType="0" ScreenID="2" PartName="TXT_6" />
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Rectangle Rectangle0" CapType="0" IsModify="false" ErrorType="0" ScreenID="2" PartName="Rectangle0">
+			<nLevel2 parentTypeID="1200002" id="1300003" caption="No forecolor" CapType="2" IsModify="false" ErrorType="1" ScreenID="2" PartName="Rectangle0" />
+			<nLevel2 parentTypeID="1200002" id="1300003" caption="Pattern style has already be changed , please reset it !" CapType="1" IsModify="false" ErrorType="2" ScreenID="2" PartName="Rectangle0" />
+		</nLevel1>
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Bit switch Bit Switch0" CapType="0" IsModify="false" ErrorType="0" ScreenID="2" PartName="Bit Switch0" />
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Bit state lamp Bit Indicator0" CapType="0" IsModify="false" ErrorType="0" ScreenID="2" PartName="Bit Indicator0">
+			<nLevel2 parentTypeID="1200002" id="1300003" caption="No function of display direction" CapType="2" IsModify="false" ErrorType="1" ScreenID="2" PartName="Bit Indicator0" />
+		</nLevel1>
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Bit state lamp Bit Indicator1" CapType="0" IsModify="false" ErrorType="0" ScreenID="2" PartName="Bit Indicator1" />
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Bit switch Bit Switch1" CapType="0" IsModify="false" ErrorType="0" ScreenID="2" PartName="Bit Switch1">
+			<nLevel2 parentTypeID="1200002" id="1300003" caption="No function of display direction" CapType="2" IsModify="false" ErrorType="1" ScreenID="2" PartName="Bit Switch1" />
+		</nLevel1>
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Bit switch Bit Switch2" CapType="0" IsModify="false" ErrorType="0" ScreenID="2" PartName="Bit Switch2" />
+	</pLevel>
+	<pLevel parentTypeID="1000000" id="1100001" caption="Screen:3 TATRONICS" CapType="0" IsModify="false" ErrorType="0" ScreenID="3" PartName="">
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Picture BMP_0" CapType="0" IsModify="false" ErrorType="0" ScreenID="3" PartName="BMP_0" />
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Text TXT_0" CapType="0" IsModify="false" ErrorType="0" ScreenID="3" PartName="TXT_0" />
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Text TXT_1" CapType="0" IsModify="false" ErrorType="0" ScreenID="3" PartName="TXT_1" />
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Text TXT_2" CapType="0" IsModify="false" ErrorType="0" ScreenID="3" PartName="TXT_2" />
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Text TXT_3" CapType="0" IsModify="false" ErrorType="0" ScreenID="3" PartName="TXT_3" />
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Text TXT_4" CapType="0" IsModify="false" ErrorType="0" ScreenID="3" PartName="TXT_4" />
+	</pLevel>
+	<pLevel parentTypeID="1000000" id="1100001" caption="Screen:4 SCREENSAVER" CapType="0" IsModify="false" ErrorType="0" ScreenID="4" PartName="">
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Picture BMP_0" CapType="0" IsModify="false" ErrorType="0" ScreenID="4" PartName="BMP_0" />
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Text TXT_0" CapType="0" IsModify="false" ErrorType="0" ScreenID="4" PartName="TXT_0" />
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Text TXT_1" CapType="0" IsModify="false" ErrorType="0" ScreenID="4" PartName="TXT_1" />
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Text TXT_2" CapType="0" IsModify="false" ErrorType="0" ScreenID="4" PartName="TXT_2" />
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Text TXT_3" CapType="0" IsModify="false" ErrorType="0" ScreenID="4" PartName="TXT_3" />
+		<nLevel1 parentTypeID="1100001" id="1200002" caption="Text TXT_4" CapType="0" IsModify="false" ErrorType="0" ScreenID="4" PartName="TXT_4" />
+	</pLevel>
+	<pLevel parentTypeID="1000000" id="1100001" caption="Screen:1002 Common Window" CapType="0" IsModify="false" ErrorType="0" ScreenID="1002" PartName="" />
+	<pLevel parentTypeID="1000000" id="1100001" caption="Conversion is complete, it is not the same as the old and new project, please check the function of the new project carefully." CapType="0" IsModify="false" ErrorType="0" ScreenID="-1" PartName="" />
+	<Summary Alarm="8" Error="10">
+		<Info>Original project HMI: LEVI 2070</Info>
+		<Info>Target project HMI: PI3070i</Info>
+		<Info>Warning：8 / 74 = 10.8108%</Info>
+		<Info>Error：10 / 74 = 13.5135%</Info>
+		<Info>Warning and error：18 / 74 = 24.3243%</Info>
+	</Summary>
+	<Register />
+</Report>

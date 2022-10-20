@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project filever="1.0">
+	<SourAddrToDestAddrInfo maxlen="100">
+	</SourAddrToDestAddrInfo>
+<UserList>
+<User ID="1" Name="TATRONICS" PassWord="FGGOF" Description="SETTINGS PURPOSE" GroupIdSet=""/></UserList>
+<GroupList/></project>

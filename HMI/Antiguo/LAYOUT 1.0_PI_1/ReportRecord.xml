@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project filever="1.0">
+	<DataGrpSet>
+		<Group ID="1" FileName="IMPACTO" Timer="6" MaxRecord="10000" Trigger="3" TriggAddr="M40" ChannelCount="5" UseSampleValue="0" SampleValue="0" MaxSize="0.905990601">
+			<Data ID="1" WordAddr="D610" DataFormat="206" ByteLen="2" DigitCount="3.2" Name="ALTURAChannel1Channel1Channel1Channel1Channel1Channel1Channel1Channel1" />
+			<Data ID="2" WordAddr="D606" DataFormat="206" ByteLen="2" DigitCount="3.2" Name="SVChannel2Channel2Channel2Channel2Channel2Channel2Channel2Channel2" />
+			<Data ID="3" WordAddr="D608" DataFormat="206" ByteLen="2" DigitCount="3.2" Name="OFFSETChannel3Channel3Channel3Channel3Channel3Channel3Channel3Channel3" />
+			<Data ID="4" WordAddr="D98" DataFormat="102" ByteLen="1" DigitCount="4.0" Name="MOTOR UPChannel4Channel4Channel4Channel4Channel4Channel4Channel4Channel4" />
+			<Data ID="5" WordAddr="D100" DataFormat="102" ByteLen="1" DigitCount="4.0" Name="MOTOR DNChannel5Channel5Channel5Channel5Channel5Channel5Channel5Channel5" />
+		</Group>
+	</DataGrpSet>
+	<LiveTrendSet />
+	<HisXYTrendSet />
+	<WordAlarmSet>
+		<Alarm GroupID="0" bSave="1" Name="Altura" WordAddr="D10" DataFormat="206" DigitCount="3 2">
+			<ElementAlarm AlarmReg1="" AlarmReg2="" bSave="1" AlarmType="0" bVar="0" AlarmValue1="100" AlarmValue2="" Freq="0" BuzzerTime="0" IsBeepOne="0" StrIndex="Altura" PopAlWndOnce="0" DelayTime="1000" PointPos="0 0" bIsDestoryWind="0" notice="0" Trigger1="" bResetTrigger="0" UseBuzzer="0" ScreenNo="-1" />
+		</Alarm>
+	</WordAlarmSet>
+	<BitAlarmSet />
+</project>

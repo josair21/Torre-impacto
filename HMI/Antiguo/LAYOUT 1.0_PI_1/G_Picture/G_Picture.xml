@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<G_Picture G_PictureVer="2.0">
+	<G_bmplib FileType="1" CurBmpTotal="36" AllBmpTotal="124">
+		<G_bmp Default="1" nId="1" nTotalStatus="2">
+			<MulStatus szFilename="Bmp1_0.dat" dwMID="0" />
+			<MulStatus szFilename="Bmp1_1.dat" dwMID="1" />
+		</G_bmp>
+		<G_bmp Default="1" szFilename="Bmp2_0.dat" nId="2" nTotalStatus="1" />
+		<G_bmp Default="1" szFilename="Bmp3_0.dat" nId="3" nTotalStatus="1" />
+		<G_bmp Default="1" szFilename="Bmp4_0.dat" nId="4" nTotalStatus="1" />
+		<G_bmp Default="1" szFilename="Bmp5_0.dat" nId="5" nTotalStatus="1" />
+		<G_bmp Default="1" szFilename="Bmp6_0.dat" nId="6" nTotalStatus="1" />
+		<G_bmp Default="1" szFilename="Bmp7_0.dat" nId="7" nTotalStatus="1" />
+		<G_bmp Default="1" szFilename="Bmp8_0.dat" nId="8" nTotalStatus="1" />
+		<G_bmp Default="1" szFilename="Bmp9_0.dat" nId="9" nTotalStatus="1" />
+		<G_bmp Default="1" szFilename="Bmp10_0.dat" nId="10" nTotalStatus="1" />
+		<G_bmp Default="1" szFilename="Bmp11_0.dat" nId="11" nTotalStatus="1" />
+		<G_bmp Default="1" szFilename="Bmp12_0.dat" nId="12" nTotalStatus="1" />
+		<G_bmp Default="1" szFilename="Bmp13_0.dat" nId="13" nTotalStatus="1" />
+		<G_bmp Default="1" nId="14" nTotalStatus="2">
+			<MulStatus szFilename="Bmp14_0.dat" dwMID="0" />
+			<MulStatus szFilename="Bmp14_1.dat" dwMID="1" />
+		</G_bmp>
+		<G_bmp szFilename="Bmp101_0.dat" nId="101" nTotalStatus="1" />
+		<G_bmp szFilename="Bmp103_0.dat" nId="103" nTotalStatus="1" />
+		<G_bmp szFilename="Bmp104_0.dat" nId="104" nTotalStatus="1" />
+		<G_bmp szFilename="Bmp105_0.dat" nId="105" nTotalStatus="1" />
+		<G_bmp szFilename="Bmp106_0.dat" nId="106" nTotalStatus="1" />
+		<G_bmp szFilename="Bmp107_0.dat" nId="107" nTotalStatus="1" />
+		<G_bmp szFilename="Bmp109_0.dat" nId="109" nTotalStatus="1" />
+		<G_bmp szFilename="Bmp110_0.dat" nId="110" nTotalStatus="1" />
+		<G_bmp szFilename="Bmp111" nId="111" nTotalStatus="2">
+			<MulStatus szFilename="Bmp111_0.dat" dwMID="0" />
+			<MulStatus szFilename="Bmp111_1.dat" dwMID="1" />
+		</G_bmp>
+		<G_bmp szFilename="Bmp112" nId="112" nTotalStatus="2">
+			<MulStatus szFilename="Bmp112_0.dat" dwMID="0" />
+			<MulStatus szFilename="Bmp112_1.dat" dwMID="1" />
+		</G_bmp>
+		<G_bmp szFilename="Bmp113" nId="113" nTotalStatus="2">
+			<MulStatus szFilename="Bmp113_0.dat" dwMID="0" />
+			<MulStatus szFilename="Bmp113_1.dat" dwMID="1" />
+		</G_bmp>
+		<G_bmp szFilename="Bmp114_0.dat" nId="114" nTotalStatus="1" />
+		<G_bmp szFilename="Bmp115_0.dat" nId="115" nTotalStatus="1" />
+		<G_bmp szFilename="Bmp116" nId="116" nTotalStatus="2">
+			<MulStatus szFilename="Bmp116_0.dat" dwMID="0" />
+			<MulStatus szFilename="Bmp116_1.dat" dwMID="1" />
+		</G_bmp>
+		<G_bmp szFilename="Bmp117_0.dat" nId="117" nTotalStatus="1" />
+		<G_bmp szFilename="Bmp118_0.dat" nId="118" nTotalStatus="1" />
+		<G_bmp szFilename="Bmp119_0.dat" nId="119" nTotalStatus="1" />
+		<G_bmp szFilename="Bmp120_0.dat" nId="120" nTotalStatus="1" />
+		<G_bmp szFilename="Bmp121" nId="121" nTotalStatus="2">
+			<MulStatus szFilename="Bmp121_0.dat" dwMID="0" />
+			<MulStatus szFilename="Bmp121_1.dat" dwMID="1" />
+		</G_bmp>
+		<G_bmp szFilename="Bmp122" nId="122" nTotalStatus="2">
+			<MulStatus szFilename="Bmp122_0.dat" dwMID="0" />
+			<MulStatus szFilename="Bmp122_1.dat" dwMID="1" />
+		</G_bmp>
+		<G_bmp szFilename="Bmp123" nId="123" nTotalStatus="2">
+			<MulStatus szFilename="Bmp123_0.dat" dwMID="0" />
+			<MulStatus szFilename="Bmp123_1.dat" dwMID="1" />
+		</G_bmp>
+		<G_bmp szFilename="Bmp124" nId="124" nTotalStatus="2">
+			<MulStatus szFilename="Bmp124_0.dat" dwMID="0" />
+			<MulStatus szFilename="Bmp124_1.dat" dwMID="1" />
+		</G_bmp>
+	</G_bmplib>
+</G_Picture>

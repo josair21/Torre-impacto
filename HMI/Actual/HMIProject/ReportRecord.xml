@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project filever="1.0" ProjectVer="1.0">
+	<DataGrpSet>
+		<Group ID="1" Vession="1" Timer="15" FastSample="0" FastTimmer="0" GroupNames="LanzamientosRecord0Record0Record0Record0Record0Record0Record0" MaxSize="4.00" MaxRecord="27962" Trigger="3" TriggAddr="M40" ChannelCount="3" UseTimerAddr="0" TimerAddr="" UseSampleValue="0" SampleValue="0" Cloud="0" Start="1" End="1" FileName="Lanzamientos">
+			<Data ID="1" WordAddr="D606" DataFormat="206" IsBitCollect="0" ByteLen="2" DigitCount="4.1" Use="0" Name="AlturaChannel1Channel1Channel1Channel1Channel1Channel1Channel1" />
+			<Data ID="2" WordAddr="D608" DataFormat="206" IsBitCollect="0" ByteLen="2" DigitCount="3.1" Use="0" Name="H BalaChannel2Channel2Channel2Channel2Channel2Channel2Channel2" />
+			<Data ID="3" WordAddr="D7000" DataFormat="1000" IsBitCollect="0" ByteLen="15" DigitCount="" Use="0" Name="ProyectilChannel3Channel3Channel3Channel3Channel3Channel3Channel3" />
+		</Group>
+	</DataGrpSet>
+</project>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<G_Picture G_PictureVer="2.0">
+	<G_bmplib CurBmpTotal="8" AllBmpTotal="10" SaveAsJpg="0" G_bmplib.blb_CT="20200908  10:30:00" G_bmplib.blb_MT="20200209  19:03:09">
+		<G_bmp szFilename="TTCS LOGO" nId="1" nTotalStatus="1" nWidth="760" nHeigth="386" nFileSize="880120" bTransparent="0" cTransColor="0" enumPicType="0"/>
+		<G_bmp szFilename="parametros" nId="3" nTotalStatus="1" nWidth="310" nHeigth="163" nFileSize="151956" bTransparent="0" cTransColor="0" enumPicType="0"/>
+		<G_bmp szFilename="eventos" nId="4" nTotalStatus="1" nWidth="224" nHeigth="224" nFileSize="150568" bTransparent="0" cTransColor="0" enumPicType="0"/>
+		<G_bmp szFilename="inicio" nId="5" nTotalStatus="1" nWidth="225" nHeigth="225" nFileSize="152140" bTransparent="0" cTransColor="0" enumPicType="0"/>
+		<G_bmp szFilename="MENU" nId="6" nTotalStatus="1" nWidth="225" nHeigth="225" nFileSize="152140" bTransparent="0" cTransColor="0" enumPicType="0"/>
+		<G_bmp szFilename="Tanks_tank2_00.bmp" nId="7" nTotalStatus="1" nWidth="100" nHeigth="98" nFileSize="29440" bTransparent="0" cTransColor="0" enumPicType="0"/>
+		<G_bmp szFilename="TTCS LOGO NEGRO" nId="9" nTotalStatus="1" nWidth="760" nHeigth="386" nFileSize="880120" bTransparent="0" cTransColor="0" enumPicType="0"/>
+		<G_bmp szFilename="8518" nId="10" nTotalStatus="1" nWidth="690" nHeigth="479" nFileSize="992528" bTransparent="0" cTransColor="0" enumPicType="0"/></G_bmplib>
+</G_Picture>
