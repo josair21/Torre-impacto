@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <G_Picture G_PictureVer="2.0">
-	<G_bmplib FileType="1" AllBmpTotal="167" CurBmpTotal="48">
+	<G_bmplib FileType="1" AllBmpTotal="168" CurBmpTotal="49">
 		<G_bmp Default="1" szFilename="Bmp1" nId="1" nTotalStatus="2" nNewTotalStatus="0">
 			<MulStatus szFilename="Bmp1_0.dat" dwMID="0" />
 			<MulStatus szFilename="Bmp1_1.dat" dwMID="1" />
@@ -88,6 +88,9 @@
 		<G_bmp nId="167" szFilename="Bmp167" nTotalStatus="2" nNewTotalStatus="0">
 			<MulStatus dwMID="0" IsVector="1" szPath="Circle" szFilename="Circle1713.svg" bSavePng="0" bTransparent="0" cTransColor="0" />
 			<MulStatus dwMID="1" IsVector="1" szPath="Circle" szFilename="Circle1704.svg" bSavePng="0" bTransparent="0" cTransColor="0" />
+		</G_bmp>
+		<G_bmp nId="168" szFilename="Bmp168" nTotalStatus="2" nNewTotalStatus="0">
+			<MulStatus dwMID="1" IsVector="1" szPath="Button" szFilename="Button0001.svg" bSavePng="0" bTransparent="0" cTransColor="0" />
 		</G_bmp>
 	</G_bmplib>
 </G_Picture>

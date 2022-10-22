@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ScrInfo ScreenNo="2" ScreenType="" ScreenSize="0">
 	<PartInfo PartType="LogDisp" PartName="DLOG_0" PartClassifyType="TableAndCurve" PartID="2_DLOG_0">
-		<General Desc="DLOG_0" Area="8 5 791 475" BgColor="0xfdf0c4 0" TextColor="0x0 0" CharSize="1414141414141414" ShowHeader="0" StartTime="4 1 0" TimeSpan="31/2" OpenModeStartAddr="HDW0" Showdesc="1" IsWidthVale="0" WidthVale="6" LogID="1" ScreenNo="4001" Transparent="0" Table_AdvancedSet="1" Table_BackColor="0xd6f7e4 0" Table_HeadBackColor="0x62c89e 0" Table_LineColor="0x59bb9b 0" Table_SelectColor="0x62c89e 0" Table_HeadTextColor="0x0 0" Table_DataTextColor="0x0 0" Table_CellType="0" Table_RowHeight="0" Table_ColWidth="0" Table_Transparent="100" Table_TimeFormat="65536" Locking="0" />
+		<General Desc="DLOG_0" Area="8 5 791 475" BgColor="0xfdf0c4 0" TextColor="0x0 0" CharSize="1414141414141414" ShowHeader="0" StartTime="4 1 0" TimeSpan="31/2" OpenModeStartAddr="HDW0" Showdesc="1" IsWidthVale="0" WidthVale="6" LogID="1" ScreenNo="4001" Transparent="0" Table_AdvancedSet="1" Table_BackColor="0xd6f7e4 0" Table_HeadBackColor="0x62c89e 0" Table_LineColor="0x59bb9b 0" Table_SelectColor="0x62c89e 0" Table_HeadTextColor="0x0 0" Table_DataTextColor="0x0 0" Table_CellType="0" Table_RowHeight="0" Table_ColWidth="0" Table_Transparent="100" Table_TimeFormat="65537" Locking="0" />
 		<Extension FixedFirstCol="0" UseHideColFunc="0" />
 	</PartInfo>
 	<PartInfo PartType="FunctionSwitch" PartName="FS_0" PartClassifyType="Switch" PartID="2_FS_0">

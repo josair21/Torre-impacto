@@ -1,20 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <project filever="1.0">
-	<AddrInfo ScrnNo="10" HasNoPlcAddr="1">
+	<AddrInfo ScrnNo="1" HasNoPlcAddr="1">
 		<HMIAddr />
-		<WordAddr>
-			<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:D:1564:0:25600" Len="2" Fast="0" />
-			<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:D:1594:0:25600" Len="2" Fast="0" />
-			<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:D:1624:0:25600" Len="2" Fast="0" />
-			<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:D:1654:0:25600" Len="2" Fast="0" />
-			<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:D:1684:0:25600" Len="2" Fast="0" />
-			<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:D:1714:0:25600" Len="2" Fast="0" />
-			<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:D:1744:0:25600" Len="2" Fast="0" />
-			<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:D:1774:0:25600" Len="2" Fast="0" />
-			<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:D:1804:0:25600" Len="2" Fast="0" />
-		</WordAddr>
+	</AddrInfo>
+	<AddrInfo ScrnNo="2" HasNoPlcAddr="1">
+		<HMIAddr />
 	</AddrInfo>
 </project>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:D:610:0:25600" Len="2" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:D:610:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:D:716:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:D:7000:0:25600" Len="15" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:D:606:0:25600" Len="2" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:D:608:0:25600" Len="2" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:D:720:0:25600" Len="2" Fast="0" />
+	</WordAddr>
+</PLCAddr>
 <PLCAddr>
 	<WordAddr>
 		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:D:610:0:25600" Len="1" Fast="0" />
