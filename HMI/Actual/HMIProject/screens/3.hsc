@@ -44,7 +44,7 @@
 			<UserAuthority IsUseUserAuthority="0" IsPopUserLoginWin="0" PopType="0" IsHidePart="0" />
 		</PartInfo>
 		<PartInfo PartType="Text" PartName="TXT_0" PartClassifyType="OtherClassType" PartID="3_TXT_0">
-			<General TextContent="TOLERANCIA" LaFrnColor="0xffffff -1" IsBackColor="0" BgColor="0xfdf0c4 0" CharSize="1414141414141414" Bold="0" StartPt="506 352" Width="0" Height="0" Area="506 352 636 378" InAlign="1" Locking="0" />
+			<General TextContent="PRECISION ASCENSO" LaFrnColor="0xffffff -1" IsBackColor="0" BgColor="0xfdf0c4 0" CharSize="1414141414141414" Bold="0" StartPt="463 352" Width="0" Height="0" Area="463 352 684 378" InAlign="1" Locking="0" />
 		</PartInfo>
 	</PartInfo>
 	<PartInfo PartType="BitSwitch" PartName="BS_0" PartClassifyType="Switch" PartID="3_BS_0">
@@ -97,6 +97,23 @@
 		</PartInfo>
 		<PartInfo PartType="Text" PartName="TXT_2" PartClassifyType="OtherClassType" PartID="3_TXT_2">
 			<General TextContent="ALTURA IMAN" LaFrnColor="0xffffff -1" IsBackColor="0" BgColor="0xfdf0c4 0" CharSize="1414141414141414" Bold="0" StartPt="84 148" Width="0" Height="0" Area="84 148 227 174" InAlign="1" Locking="0" />
+		</PartInfo>
+	</PartInfo>
+	<PartInfo PartType="GroupPart" PartName="Group Objects">
+		<PartInfo PartType="Numeric" PartName="NUM_3" PartClassifyType="InputAndShow" PartID="3_NUM_3">
+			<General Desc="NUM_0" Area="74 294 234 348" CharSize="2514141414141414" WordAddr="D656" Fast="0" nuCount="1" HighLowChange="0" IsInput="1" WriteAddr="D656" KbdScreen="1000" IsPopKeyBrod="0" FigureFile="" IsKeyBoardRemark="0" LaStartPt="0 0" BorderColor="0xf7e7ad 0" LaFrnColor="0x0 0" BgColor="0xfdf0c4 0" BmpIndex="136" IsHideNum="0" HighZeroPad="0" IsShowPwd="0" ZeroNoDisplay="0" IsIndirectR="0" IsIndirectW="0" KbdContinue="0" KbdContinueNum="0" KbdContinueGroup="0" KbdContinueEnd="0" IsShowNaturalDecimals="0" Locking="0" />
+			<SVGColor svgfile="Button\Button0601.svg" dark="0x999999 0" light="0xb2b2b2 0" hlight="0x0 0" shadow="0xcccccc 0" shape="0x0 0" gstartcolor="0x0 0" gmidcolor="0x0 0" gendcolor="0x0 0" />
+			<DispFormat DispType="206" DigitCount="3 2" DataLimit="0206 03 02 0 999" IsVar="0" Zoom="0" Mutiple="1.000000000000000" Round="0" IsInputLabelL="0" IsInputLabelR="0" IsInputDefault="0" bShowRange="0" IsVar1="0" ColorHText="0x0 0" ColorHBag="0x0 0" ColorLText="0x0 0" ColorLBag="0x0 0" UseOutRangeText="0" />
+			<MoveZoom DataFormatMZ="0" MutipleMZ="1.000000000000000" />
+			<TrigHide UseShowHide="0" HideType="0" IsHideAllTime="0" />
+			<Extension TouchState="1" Buzzer="1" IsCheck="0" AckTime="0" />
+			<Lock Lockmate="0" UnDrawLock="0" LockMode="0" IsShowGrayScale="0" />
+			<PartPwd IsUesPartPassword="0" IsSetLowerLev="0" PartPasswordLev="0" />
+			<ClickPopTrig />
+			<UserAuthority IsUseUserAuthority="0" IsPopUserLoginWin="0" PopType="0" IsHidePart="0" />
+		</PartInfo>
+		<PartInfo PartType="Text" PartName="TXT_3" PartClassifyType="OtherClassType" PartID="3_TXT_3">
+			<General TextContent="PRECISION DESCENSO" LaFrnColor="0xffffff -1" IsBackColor="0" BgColor="0xfdf0c4 0" CharSize="1414141414141414" Bold="0" StartPt="42 352" Width="0" Height="0" Area="42 352 276 378" InAlign="1" Locking="0" />
 		</PartInfo>
 	</PartInfo>
 </ScrInfo>
